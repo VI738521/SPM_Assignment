@@ -4,7 +4,7 @@
 	</head>
 <body>
 	<form name="loginForm" method="post">
-		<table width="20%" bgcolor="0099CC" align="center">
+		<table>
 			<tr>
 				<td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
 			</tr>
